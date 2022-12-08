@@ -1,4 +1,4 @@
 usage example:
 
-import main
+import main\n
 main.sin(50)
